@@ -29,14 +29,16 @@
     <meta property="og:description" content="Aprenda a baixar fotos e vídeos do Instagram pelo celular Android, pelo iPhone ou PC.">
 
     <!-- CONFIGURAÇÃO DO GOOGLE ANALYTICS -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-68095971-1"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165831593-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'UA-68095971-1');
+      gtag('config', 'UA-165831593-1');
     </script>
+
     <!--/FIM DO GOOGLE ANALYTICS -->
 
     <style type="text/css">

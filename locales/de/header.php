@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="de">
   <head>
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="Learn How to Download Instagram Photos and Videos from Android Phones, iPhone or PC.">
+    <meta name="description" content="Erfahren Sie, wie Sie Instagram-Fotos und -Videos von Android-Handys, iPhone oder PC herunterladen.">
 
 
     <!-- Required meta tags -->
@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index, follow">
 
-    <title>Download photos and videos from Instagram - Download photos and videos from Instagram</title>
+    <title>Fotos und Videos von Instagram herunterladen - Laden Sie Fotos und Videos von Instagram herunter.</title>
 
     <!-- Google online fonts -->
     <link href="//fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
@@ -30,14 +30,14 @@
 
     <!-- CONFIGURAÇÃO DO GOOGLE ANALYTICS -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165831593-1"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165831593-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-        gtag('config', 'UA-165831593-1');
-      </script>
+      gtag('config', 'UA-165831593-1');
+    </script>
 
     <!--/FIM DO GOOGLE ANALYTICS -->
 
@@ -60,19 +60,19 @@
 
 <!--INICIO DO CABEÇALHO-->
 <section class="w3l-header">
-  <nav class="navbar navbar-expand-md navbar-light">
-    <div class="container">
-      <a class="navbar-brand center" href="index.html"><span class="fa fa-download"></span>Insta<label class="logo-view">mim</label></a>
+  <nav class="navbar navbar-expand-sm navbar-light">
+    <div class="navbar-brand">
+      <a class="navbar-brand" href="index.php"><span class="fa fa-download"></span>Insta<label class="logo-view">mim</label></a>
     </div>
 
     <!-- BOTÃO DE ESCOLHA LINGUA-->
-    <ul class="navbar-nav mr-auto">
+    <ul class="navbar-nav">
       <li class="nav-item dropdown">
          <a class="btn btn-outline-secondary dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                English
+                Deutsch
          </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item">Select your language</a>
+                <a class="dropdown-item">Selecione seu idioma</a>
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="en">English</a>
                 <a class="dropdown-item" href="es">Español</a>
